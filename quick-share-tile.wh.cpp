@@ -4,6 +4,7 @@
 // @description     Replaces the Windows 11 Nearby sharing tile with a Quick Share launcher.
 // @version         1.0.0
 // @author          ThePsychof
+// @github          https://github.com/ThePsychof/quick-share-tile
 // @include         ShellHost.exe
 // @architecture    x86-64
 // @compilerOptions -DWIN32_LEAN_AND_MEAN -lruntimeobject -lole32 -loleaut32 -lshell32 -lgdi32 -luuid
