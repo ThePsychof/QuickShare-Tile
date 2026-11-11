@@ -22,7 +22,7 @@ Nearby sharing tile a new purpose.
 
 ## Preview
 
-![Before and after](https://raw.githubusercontent.com/ThePsychof/QuickShare-Tile)
+![Before and after](https://raw.githubusercontent.com/ThePsychof/QuickShare-Tile/main/Before%26After.png)
 
 ## Features
 
